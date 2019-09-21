@@ -1,0 +1,6 @@
+[submodule "ProjectEulerCaptchaSolver"]
+	path = ProjectEulerCaptchaSolver
+	url = git@github.com:FrenchCommando/ProjectEulerCaptchaSolver.git
+[submodule "libs/googletest"]
+	path = libs/googletest
+	url = https://github.com/google/googletest.git
